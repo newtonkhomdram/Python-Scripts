@@ -17,7 +17,6 @@ Operations
 
 4.Division
 
-
 #Task_2
 Description
 
@@ -33,7 +32,6 @@ Features
 
 4.Prints a greeting message
 
-
 # Task_3
 Even or Odd Checker
 
@@ -45,7 +43,6 @@ This Python program takes an integer input from the user and checks whether the 
 1. Takes an integer input from the user  
 2. Checks if the number is even or odd using an if-else statement  
 3. Displays the result accordingly
-
 
 # Task_4
 Sum of Integers from 1 to 50
