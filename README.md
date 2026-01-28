@@ -1,5 +1,5 @@
 # Python-Scripts
-Python Assignment 1
+# Python Assignment 1
 
 # Task_1
 Basic Mathematical Operations
@@ -31,6 +31,8 @@ Features
 3.Displays full name
 
 4.Prints a greeting message
+
+# Python Assignment 2
 
 # Task_3
 Even or Odd Checker
