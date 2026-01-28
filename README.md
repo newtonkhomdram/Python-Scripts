@@ -1,10 +1,10 @@
 # Python-Scripts
 Python Assignment 1
 
-#Task_1
+# Task_1
 Basic Mathematical Operations
-Description
 
+## Description
 This Python program takes two numbers from the user and performs basic mathematical operations.
 
 Operations
@@ -17,9 +17,9 @@ Operations
 
 4.Division
 
-#Task_2
-Description
+# Task_2
 
+## Description
 This Python program takes a user's first name and last name, combines them into a full name, and prints a personalized greeting message.
 
 Features
