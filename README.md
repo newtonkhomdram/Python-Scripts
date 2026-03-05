@@ -58,6 +58,7 @@ This Python program calculates the sum of all integers from 1 to 50 using a for 
 2. Calculates the sum of the integers  
 3. Displays the final sum
 
+
 # Task_5
 Factorial Calculator Using Recursion
 
