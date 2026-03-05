@@ -57,3 +57,17 @@ This Python program calculates the sum of all integers from 1 to 50 using a for 
 1. Uses a for loop to iterate from 1 to 50  
 2. Calculates the sum of the integers  
 3. Displays the final sum
+
+## Task_5
+Factorial Calculator Using Recursion
+
+## Description
+
+This Python program calculates the factorial of a given number using a recursive function. The program asks the user to enter a number and then computes its factorial.
+
+## Operations
+
+1. Takes an integer input from the user
+2. Uses a recursive function to calculate the factorial
+3. Multiplies the number with the factorial of the previous number until it reaches 1
+4. Displays the factorial result
