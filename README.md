@@ -72,3 +72,19 @@ This Python program calculates the factorial of a given number using a recursive
 2. Uses a recursive function to calculate the factorial
 3. Multiplies the number with the factorial of the previous number until it reaches 1
 4. Displays the factorial result
+
+
+# Task_6
+Mathematical Operations Using Math Module
+
+## Description
+
+This Python program performs different mathematical calculations using the built-in math module. It calculates the square root, logarithm, and sine of a number entered by the user.
+
+## Operations
+
+1. Takes a number as input from the user
+2. Calculates the square root using math.sqrt()
+3. Calculates the logarithm using math.log()
+4. Calculates the sine value using math.sin()
+5. Displays all the calculated results
